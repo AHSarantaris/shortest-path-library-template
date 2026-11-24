@@ -85,17 +85,13 @@ Herunder har jeg givet en vejledning til hvad jeg ønsker i synopsen.
 
 ## Præsentationer
 
-I uge 41 skal I præsentere jeres spil overfor den interne auditor og mig, så vi får et godt overblik over jeres produkter og synopser. Derefter vil vi stille nogle uddybende spørgsmål.
+Torsdag den 10. december skal I præsentere jeres spil overfor den interne auditor og mig, så vi får et godt overblik over jeres produkter og synopser. Derefter vil vi stille nogle uddybende spørgsmål.
 
-Vi har afsat 50 minutter til hele mødet, hvor I får de første 10 minutter jeres præsentationen, hvorefter vi vil stille spørgsmål. Når 30 minutter er gået vil vi kort drøfte om vi vil gå videre med jeres spil, og de sidste 10 minutter vil vi give jer vores vurdering. I vil også her få noget feedback så I ved hvad I kan gøre bedre til næste projekt.
+Vi har afsat 50 minutter til hele mødet, hvor I får de første 10 minutter jeres præsentationen, hvorefter vi vil stille spørgsmål. Når 30 minutter er gået vil vi kort drøfte om vi vil gå videre med jeres biblioteksmodul, og de sidste 10 minutter vil vi give jer vores vurdering. I vil også her få noget feedback så I ved hvad I kan gøre bedre til næste projekt.
 
 ### Tidsplan for præsenationerne
 
-- Tirsdag den 6. oktober:
-  - 10:40 - 11:30: Team 1 (Søren, Lucas og Frederik).
-- Torsdag den 8. oktober:
-  - 8:10 - 9:00: Team 3 (Magnus, Daniel og Zeth).
-  - 9:00 - 9:45: Team 2 (Alexander og Gustav).
+Tidsplanen kommer senere.
 
 \
 God arbejdslyst!
