@@ -63,7 +63,7 @@ Herunder har jeg givet en vejledning til hvad jeg ønsker i synopsen.
 
 - **Design:**
 \
-    Beskriv hvordan I har designet biblioteksmodulet og forklar det med pseudokode og et klassediagram.
+    Beskriv hvordan I har designet biblioteksmodulet og forklar det med pseudokode og et klassediagram. Bestem også tidskompleksiteten for algoritmerne ud fra jeres implementeringer ved brug af O-notation.
 
 - **Implementering:**
 \
