@@ -8,7 +8,7 @@ export class Queue {
 
     /**
      * A queue based on a circular array stored in the variable #data .
-     * 
+     * @ignore
      * @param {number} maxNumItems - Maximum number of items that the queue can hold.
      */
     constructor(maxNumItems) {

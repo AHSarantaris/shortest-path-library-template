@@ -17,7 +17,20 @@ Forløb 15: Algoritmer og Datastrukturer
 
 ### Dokumentation og udgivelse
 
-Fremgangsmåden til at skrive dokumentation for biblioteksmodulet og udgive det kommer i 4. modul torsdag den 25. november.
+1. Skriv JSDoc kommentarer til alle klasser/metoder/funktioner i biblioteksmodulet, især dem der er en del af jeres API.
+2. Sæt et `@ignore`-tag på de klasser/funktioner/metoder som ikke er en del af jeres API. Se [jsdoc.app/tags-ignore](https://jsdoc.app/tags-ignore).
+3. Kør `npm run docs` for at generere dokumentationshjemmesiden i [index.html](docs/index.html)-filen i [docs](docs)-mappen.
+4. Giv jeres npm-pakke et andet navn og beskrivelse i filen [package.json](package.json), og opdater versionsnummeret når I laver nye versioner/udgivelser.
+5. Slet det der står i [README.md](README.md)-filen, og skriv i stedet en README-fil der introducerer jeres biblioteksmodul. Se [github.com/qiao/PathFinding.js](https://github.com/qiao/PathFinding.js/) og for inspiration.
+6. Sæt demo-mappen på GitHub-Pages.
+
+### README-filens struktur
+
+1. Navn på jeres biblioteksmodul.
+2. Introduction: Hvad gør jeres biblioteksmodul. Inkludér et link til demoen samt jeres udvidede Tower Defence-spil der bruger biblioteksmodulet.
+3. Installation: Hvordan installerer man biblioteksmodulet
+4. How to use: Hvordan bruger man biblioteksmodulet.
+5. Contributors: Hvem der har udviklet biblioteksmodulet.
 
 ## Brug af AI
 
